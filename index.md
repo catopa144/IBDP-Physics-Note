@@ -1,0 +1,17 @@
+---
+title: ホーム
+---
+
+# IB Physics Notes へようこそ
+
+このサイトは、IB Physics の学習ノートを公開しています。
+
+## コンテンツ
+
+- [[【まとめノート】0. Skills in the Study of Physics|Skills in the Study of Physics]]
+
+## ナビゲーション
+
+左側のサイドバーからノートを探索できます。各ページには目次とバックリンクが表示されます。
+
+右上の検索バーを使用して、特定のトピックを素早く見つけることができます。

@@ -1,0 +1,19 @@
+# Quartz
+.quartz-cache
+public
+node_modules
+
+# Obsidian
+.obsidian/workspace*
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+
+# Build outputs
+dist/

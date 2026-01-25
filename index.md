@@ -9,6 +9,7 @@ title: ホーム
 ## 📚 まとめノート
 
 - [[0. Skills in the Study of Physics]]
+- [[A.1 Kinematics]]
 
 
 ## ナビゲーション

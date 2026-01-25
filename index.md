@@ -8,7 +8,7 @@ title: ホーム
 
 ## 📚 まとめノート
 
-- [[【まとめノート】0. Skills in the Study of Physics]]
+- [[0. Skills in the Study of Physics]]
 
 
 ## ナビゲーション

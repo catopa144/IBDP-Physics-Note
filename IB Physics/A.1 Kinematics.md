@@ -3,9 +3,12 @@ date: 2026-01-25
 tags: [NotebookLM, 物理学, 運動学, 学術]
 source: 
 ---
-# A1 Kinematics：運動の数学的モデル化
-
 ![[A.1 Kinematics.png]]
+
+## 参考動画
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V7_bst9V3nk" frameborder="0" allowfullscreen></iframe>
+
+# A1 Kinematics：運動の数学的モデル化
 
 > [!ABSTRACT] 概要
 > 本資料は、物体の動きを数学的にモデル化し、将来の位置や速度を予測する「運動学（Kinematics）」の基礎を扱います。スカラーとベクトルの区別から始まり、グラフ解析、suvat方程式、そして2次元の斜方投射までを体系的に網羅しています。

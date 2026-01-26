@@ -3,12 +3,16 @@ date: 2026-01-26
 tags: [NotebookLM, 学術, 物理学, 理論]
 source: 
 ---
+![[A.2 Forces and momentum.png]]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iBLFBD0uel8" frameborder="0" allowfullscreen></iframe>
+
 # Forces and Momentum（力と運動量）
 
 > [!ABSTRACT] 概要
 > 本セクションは[[古典力学]]の核心であり、物体がなぜ動き、どのように相互作用するかを説明するモデルを扱います。[[ニュートンの運動の法則]]を基礎とし、力、運動量、および円運動の解析手法を包括的に整理しています。
 
-![[A.2 Forces and momentum.png]]
+
 ## 1. [[ニュートンの運動の法則]] (Newton's Laws of Motion)
 この単元の基礎となるのは、物体の運動を予測するための3つの法則です。
 

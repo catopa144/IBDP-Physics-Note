@@ -5,7 +5,15 @@ source:
 ---
 ![[A.2 Forces and momentum.png]]
 
+まとめ動画1
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iBLFBD0uel8" frameborder="0" allowfullscreen></iframe>
+
+まとめ動画2　運動量
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nFo_Z81e9mI" frameborder="0" allowfullscreen></iframe>
+
+まとめ動画3　円運動
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GhfrMGFrj8I" frameborder="0" allowfullscreen></iframe>
+
 
 # Forces and Momentum（力と運動量）
 
@@ -42,8 +50,8 @@ source:
 
 ---
 
-## 3. 運動量と力積 (Momentum and Impulse)
-運動の状態を表す量として「[[運動量]]」を導入し、衝突などの相互作用を扱います。
+## 3. [[運動量と力積]] (Momentum and Impulse)
+運動の状態を表す量として「運動量」を導入し、衝突などの相互作用を扱います。
 
 * **線形運動量 (Linear Momentum)**: $p = mv$ （ベクトル量）
 * **力積 (Impulse, J)**: 力と作用時間の積であり、運動量の変化量に等しい。
@@ -55,14 +63,14 @@ source:
 
 ---
 
-## 4. 円運動 (Circular Motion)
+## 4. [[円運動]] (Circular Motion)
 一定の速さで円軌道を回る運動でも、速度の「向き」が常に変化しているため、加速度が存在します。
 
 * **向心加速度 (Centripetal Acceleration)**: 円の中心に向かう加速度。
     * $$a = \frac{v^2}{r} = \omega^2 r = \frac{4\pi^2 r}{T^2}$$
 * **向心力 (Centripetal Force)**: 円運動を引き起こすために中心に向かって働く合力。
     * $$F = ma = \frac{mv^2}{r}$$
-    > [!IMPORTANT] 重要
+> [!IMPORTANT] 重要
     > 「向心力」という新しい種類の力があるわけではなく、重力、張力、摩擦力、垂直抗力などの既存の力が向心力の役割を果たします（例：カーブを曲がる車では摩擦力が向心力となる）。
 
 ---
@@ -72,3 +80,12 @@ source:
 
 > [!QUOTE] 出典
 > A.2 Forces and Momentum 資料より構成
+
+
+# 問題演習
+
+### [[1. ニュートンの運動の法則　問題演習]]
+### [[2. 力の種類　問題演習]]
+### [[3. 運動量と力積　問題演習]]
+### [[4. 運動量保存則　問題演習]]
+### [[5. 円運動　問題演習]]

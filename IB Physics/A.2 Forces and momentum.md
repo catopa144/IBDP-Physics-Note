@@ -11,9 +11,8 @@ source:
 まとめ動画2　運動量
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nFo_Z81e9mI" frameborder="0" allowfullscreen></iframe>
 
-まとめ動画3　円運動
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GhfrMGFrj8I" frameborder="0" allowfullscreen></iframe>
-
+まとめ動画3　円運動 図に誤りが多くあるので、教科書等を再度確認してください。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5LUxnzM-VTc" frameborder="0" allowfullscreen></iframe>
 
 # Forces and Momentum（力と運動量）
 

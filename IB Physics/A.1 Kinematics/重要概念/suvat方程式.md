@@ -3,7 +3,6 @@ date: 2026-01-25
 tags: [NotebookLM, 物理学, 古典力学]
 source: 
 ---
-
 # suvat方程式の概要
 
 > [!ABSTRACT] 概要
@@ -20,6 +19,7 @@ source:
 * **$t$**: 時間 (Time)
 
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3_tBTiUTSu4" frameborder="0" allowfullscreen></iframe>
 
 ## 2. 主な4つの公式
 
@@ -42,9 +42,6 @@ source:
 > $$s = \frac{(u + v)}{2}t$$
 
 ---
-
-> [!QUOTE] 出典
-> NotebookLMによる解析：古典力学における[[等加速度直線運動]]の基本公式群。
 
 ## 実践へのステップ
 これらの公式は、数値を代入するだけで未知の物理量を導き出せます。

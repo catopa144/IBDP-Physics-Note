@@ -7,6 +7,13 @@ source:
 
 ![[A.3 Work, energy and power まとめ.png]]
 
+まとめ動画1
+<iframe width="560" height="315" src="https://www.youtube.com/embed/93Lq5uDfKfQ" frameborder="0" allowfullscreen></iframe>
+
+まとめ動画2
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXKEVXxSMY0" frameborder="0" allowfullscreen></iframe>
+
+
 > [!ABSTRACT] 概要
 > 本セクションでは、ニュートン力学を補完する「エネルギー保存」の概念を扱います。力を直接計算するのではなく、システム全体の状態変化をエネルギーの観点から予測する強力な手法を学びます。
 

@@ -8,6 +8,11 @@ title: ホーム
 
 ## 📚 IB Physics ノート
 
+### 01. 微分・積分
+- [[01. 微分・積分|📝 ノート]]
+
+---
+
 ### 0. Skills in the Study of Physics
 - [[0. Skills in the Study of Physics|📝 まとめノート]]
 
